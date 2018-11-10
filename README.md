@@ -421,3 +421,87 @@ https://n3.azureedge.net//hls1/telecinetouch-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine touch HD 
 
 https://n4.azureedge.net//hls1/telecinetouch.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine cult HD 
+
+https://n3.azureedge.net//hls1/telecinecult.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine cult SD 
+
+https://n3.azureedge.net//hls1/telecinecult-sd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine cult HD 
+
+https://n4.azureedge.net//hls1/telecinecult.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD 
+
+https://n3.azureedge.net//hls1/amcbrasil.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil SD 
+
+https://n3.azureedge.net//hls1/amcbrasil-sd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD 
+
+https://n4.azureedge.net//hls1/amcbrasil.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO HD 
+
+https://n3.azureedge.net//hls1/hbo.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO SD 
+https://n3.azureedge.net//hls1/hbo-sd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO HD 
+
+https://n4.azureedge.net//hls1/hbo.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO2 HD  
+
+https://n3.azureedge.net//hls1/hbo2.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO2 SD  
+
+https://n3.azureedge.net//hls1/hbo2-sd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO2 HD  
+
+https://n4.azureedge.net//hls1/hbo2.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO Plus HD  
+
+https://n3.azureedge.net//hls1/hboplus.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO Plus SD  
+
+https://n3.azureedge.net//hls1/hboplus-sd.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO Plus HD  
+
+https://n4.azureedge.net//hls1/hboplus.m3u8

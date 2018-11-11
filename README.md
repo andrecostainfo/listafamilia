@@ -502,6 +502,18 @@ https://n3.azureedge.net//hls1/hboplus-sd.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",SONY HD  
+https://n3.azureedge.net//hls1/sony.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",SONY SD  
+https://n3.azureedge.net//hls1/sony-sd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",SONY HD  
+https://n4.azureedge.net//hls1/sony.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO Plus HD  
 
 https://n4.azureedge.net//hls1/hboplus.m3u8

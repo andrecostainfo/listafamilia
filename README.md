@@ -457,15 +457,15 @@ https://nnn3.azureedge.net//hls1/combate-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Canal Off HD 
 
-https://nnn3.azureedge.net//hls1/canaloff.m3u8
+https://nnn3.azureedge.net//hls1/off.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Canal Off HD 
 
-https://nnn3.azureedge.net//hls1/canaloff.m3u8
+https://nnn3.azureedge.net//hls1/off.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Canal Off SD 
 
-https://nnn3.azureedge.net//hls1/canaloff-sd.m3u8
+https://nnn3.azureedge.net//hls1/off-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",NFL now ao vivo HD 
 
@@ -636,17 +636,33 @@ https://nnn3.azureedge.net//hls1/sony.m3u8
 
 https://nnn3.azureedge.net//hls1/sbt.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",SBT SD 
+
+https://nnn3.azureedge.net//hls1/sbt-sd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Band HD 
 
 https://nnn3.azureedge.net//hls1/band.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Band SD 
+
+https://nnn3.azureedge.net//hls1/band-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Record HD 
 
 https://nnn3.azureedge.net//hls1/record.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Record SD 
+
+https://nnn3.azureedge.net//hls1/record-sd.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Rede TV HD 
 
 https://nnn3.azureedge.net//hls1/redetv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Rede TV SD 
+
+https://nnn3.azureedge.net//hls1/redetv-sd.m3u8
 
 
 

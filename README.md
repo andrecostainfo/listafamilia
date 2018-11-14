@@ -1,5 +1,6 @@
 #EXTM3U
 
+
 #PLAYLISTV: pltv-logo=" " pltv-name="Iptvdefinit" pltv-description="Lista IPTV" pltv-cover=" " pltv-author="Marcos santana" pltv-email=" "
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Aberta",Globo News HD 
@@ -39,83 +40,63 @@ https://nnn3.azureedge.net//hls1/cartoon-sd.m3u8
 https://nnn3.azureedge.net//hls1/cartoon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",nickelodeon HD
-
 https://nnn3.azureedge.net//hls1/nickelodeon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",nickelodeon SD
-
 https://nnn3.azureedge.net//hls1/nickelodeon-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",nickelodeon HD
-
 https://nnn3.azureedge.net//hls1/nickelodeonn.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Nick-jr
-
 HDhttps://nnn3.azureedge.net//hls1/nickjr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Nick jr SD
-
 https://nnn3.azureedge.net//hls1/nickjr-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Nickjr HD
-
 https://nnn3.azureedge.net//hls1/nickjr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Zoomoo HD
-
 https://nnn3.azureedge.net//hls1/zoomoo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Zoomoo SD
-
 https://nnn3.azureedge.net//hls1/zoomoo-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Zoomoo HD
-
 https://nnn3.azureedge.net//hls1/zoomoo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Zoomoo HD
-
 https://nnn3.azureedge.net//hls1/disneyjunior.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney juniorSD
-
 https://nnn3.azureedge.net//hls1/disneyjunior-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disneyjunior HD
-
 https://nnn3.azureedge.net//hls1/disneyjunior.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney HD
-
 https://nnn3.azureedge.net//hls1/disneyxd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney SD
-
 https://nnn3.azureedge.net//hls1/disneyxd-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney HD
-
 https://nnn3.azureedge.net//hls1/disneyxd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney channel HD
-
 https://nnn3.azureedge.net//hls1/disneychannel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney channel SD
-
 https://nnn3.azureedge.net//hls1/disneychannel-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney channel HD
-
 https://nnn3.azureedge.net//hls1/disneychannel.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Discovery kids HD
-
 https://nnn3.azureedge.net//hls1/discoverykids.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Discovery kids SD
-
 https://nnn3.azureedge.net//hls1/discoverykids-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Discovery kids HD
@@ -143,20 +124,18 @@ https://nnn3.azureedge.net//hls1/history.m3u8
 https://nnn3.azureedge.net//hls1/history-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",History HD
-
 https://nnn3.azureedge.net//hls1/history.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",H2 HD 
 
-https://nnn3.azureedge.net//hls1/h2.m3u8
+https://nnn3.azureedge.net//hls1/history2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",H2 SD https://nnn3.azureedge.net//hls1/h2-
-
-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",H2 SD 
+https://nnn3.azureedge.net//hls1/history2-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",H2 HD 
 
-https://nnn3.azureedge.net//hls1/h2.m3u8
+https://nnn3.azureedge.net//hls1/history2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",FOX HD
 
@@ -638,7 +617,9 @@ https://nnn3.azureedge.net//hls1/curta-sd.m3u8
 
 https://nnn3.azureedge.net//hls1/curta.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Curta World HD https://nnn3.azureedge.net//hls1/curta.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Curta World HD 
+
+https://nnn3.azureedge.net//hls1/curta.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Curta SD 
 
@@ -651,7 +632,6 @@ https://nnn3.azureedge.net//hls1/sony.m3u8
 https://nnn3.azureedge.net//hls1/sony-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",SONY HD
-
 https://nnn3.azureedge.net//hls1/sony.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",SBT HD 
@@ -669,4 +649,9 @@ https://nnn3.azureedge.net//hls1/record.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Rede TV HD 
 
 https://nnn3.azureedge.net//hls1/redetv.m3u8
+
+
+
+
+
 

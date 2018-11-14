@@ -17,7 +17,8 @@ https://nnn3.azureedge.net//hls1/globonews-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",Band News HD 
 
-https://nnn3.azureedge.net//hls1/bandnews.m3u8
+https://nnn3.azureedge.net//hls1/bandnews.m3u8cb
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",Band News SD 
 
@@ -293,16 +294,13 @@ https://nnn3.azureedge.net//hls1/telecinecult-sd.m3u8
 
 https://nnn3.azureedge.net//hls1/telecinecult.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD 
 https://nnn3.azureedge.net//hls1/amc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil SD
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil SD 
 https://nnn3.azureedge.net//hls1/amc-sd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD 
 https://nnn3.azureedge.net//hls1/amc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO HD

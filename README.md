@@ -295,15 +295,15 @@ https://nnn3.azureedge.net//hls1/telecinecult.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD
 
-https://nnn3.azureedge.net//hls1/amcbrasil.m3u8
+https://nnn3.azureedge.net//hls1/amc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil SD
 
-https://nnn3.azureedge.net//hls1/amcbrasil-sd.m3u8
+https://nnn3.azureedge.net//hls1/amc-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",AMC Brasil HD
 
-https://nnn3.azureedge.net//hls1/amcbrasil.m3u8
+https://nnn3.azureedge.net//hls1/amc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HBO HD
 

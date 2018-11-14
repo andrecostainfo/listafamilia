@@ -603,10 +603,6 @@ https://nnn3.azureedge.net//hls1/discoveryworld-sd.m3u8
 
 https://nnn3.azureedge.net//hls1/curta.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Curta World HD 
-
-https://nnn3.azureedge.net//hls1/curta.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Curta SD 
 
 https://nnn3.azureedge.net//hls1/curta-sd.m3u8
@@ -614,14 +610,6 @@ https://nnn3.azureedge.net//hls1/curta-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Curta HD 
 
 https://nnn3.azureedge.net//hls1/curta.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Curta World HD 
-
-https://nnn3.azureedge.net//hls1/curta.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Curta SD 
-
-https://nnn3.azureedge.net//hls1/curta-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",SONY HD
 https://nnn3.azureedge.net//hls1/sony.m3u8

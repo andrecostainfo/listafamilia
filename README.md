@@ -36,6 +36,21 @@ https://l4.azureedge.net//hls1/bandnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",Cartoon HD
 https://l4.azureedge.net//hls1/cartoon.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",space 2 SD 
+
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/67.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",FOX CHANEL 2 SD 
+
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/61.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HB0 2 SD 
+
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/54.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",Cartoon SD

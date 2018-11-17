@@ -934,3 +934,6 @@ https://l4.azureedge.net//hls1/redetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Rede TV SD
 
 https://l4.azureedge.net//hls1/redetv-sd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",HB0 signature 2 SD 
+https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/58.m3u8

@@ -919,3 +919,13 @@ https://l3.azureedge.net//hls1/redetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Rede TV SD
 
 https://l3.azureedge.net//hls1/redetv-sd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Multishow HD
+
+https://l3.azureedge.net//hls1/multishow.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Multishow SD
+
+https://l3.azureedge.net//hls1/multishow.m3u8
+

@@ -920,13 +920,13 @@ https://l4.azureedge.net//hls1/redetv.m3u8
 
 https://l4.azureedge.net//hls1/redetv-sd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="     " group-title="TV Fechada",Multishow SD https://l4.azureedge.net//hls1/multishow-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fcdn6.aptoide.com%2Fimgs%2F4%2F2%2F5%2F42592bbe29df8ef61113d967dc3f01cf_icon.png%3Fw%3D256&imgrefurl=https%3A%2F%2Fmultishowplay.pt.aptoide.com%2F&docid=ctGvYuVYkXWonM&tbnid=EY3xg-5cu7W05M%3A&vet=10ahUKEwjynIa0k9_eAhWCDpAKHeGaCO8QMwh2KAIwAg..i&w=256&h=256&itg=1&bih=478&biw=1083&q=multishow&ved=0ahUKEwjynIa0k9_eAhWCDpAKHeGaCO8QMwh2KAIwAg&iact=mrc&uact=8" group-title="TV Fechada",Multishow SD https://l4.azureedge.net//hls1/multishow-sd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="     " group-title="TV Fechada",Multishow HD https://l4.azureedge.net//hls1/multishow.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fcdn6.aptoide.com%2Fimgs%2F4%2F2%2F5%2F42592bbe29df8ef61113d967dc3f01cf_icon.png%3Fw%3D256&imgrefurl=https%3A%2F%2Fmultishowplay.pt.aptoide.com%2F&docid=ctGvYuVYkXWonM&tbnid=EY3xg-5cu7W05M%3A&vet=10ahUKEwjynIa0k9_eAhWCDpAKHeGaCO8QMwh2KAIwAg..i&w=256&h=256&itg=1&bih=478&biw=1083&q=multishow&ved=0ahUKEwjynIa0k9_eAhWCDpAKHeGaCO8QMwh2KAIwAg&iact=mrc&uact=8" group-title="TV Fechada",Multishow HD https://l4.azureedge.net//hls1/multishow.m3u8
 
-#https://l4.azureedge.net//hls1/mtv.m3u8
+#EXTINF:-1 tvg-id=""https://l4.azureedge.net//hls1/mtv.m3u8
 
-#https://l4.azureedge.net//hls1/mtv.m3u8
+#EXTINF:-1 tvg-id=""https://l4.azureedge.net//hls1/mtv.m3u8
 
     
 

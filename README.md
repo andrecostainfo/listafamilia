@@ -142,3 +142,73 @@ http://apk25.futeboltvgratis.com:8081/live/23/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney HD 
 
 http://apk25.futeboltvgratis.com:8081/live/24/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney channel HD 
+
+http://apk25.futeboltvgratis.com:8081/live/25/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney channel SD 
+
+http://apk25.futeboltvgratis.com:8081/live/26/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Disney channel HD 
+
+http://apk25.futeboltvgratis.com:8081/live/27/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Discovery kids HD 
+
+http://apk25.futeboltvgratis.com:8081/live/28/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Discovery kids SD 
+
+http://apk25.futeboltvgratis.com:8081/live/29/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Discovery kids HD 
+
+http://apk25.futeboltvgratis.com:8081/live/30/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Boomerang HD 
+
+http://apk25.futeboltvgratis.com:8081/live/31/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Boomerang SD 
+
+http://apk25.futeboltvgratis.com:8081/live/32/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Boomerang HD 
+
+http://apk25.futeboltvgratis.com:8081/live/33/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",History HD 
+
+http://apk25.futeboltvgratis.com:8081/live/34/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",History SD 
+
+http://apk25.futeboltvgratis.com:8081/live/35/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",History HD 
+
+http://apk25.futeboltvgratis.com:8081/live/36/playlist.m3u8

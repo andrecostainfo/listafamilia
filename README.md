@@ -24,13 +24,14 @@ http://apk25.futeboltvgratis.com:8081/live/8/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Aberta",Globo News HD
-https://z4.azureedge.net//hls1/globonews.m3u8
+https://live.tsli.co:8081/live/globonews/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Aberta",Globo News2 HD
-https://l3.azureedge.net//hls1/globonews.m3u8
+https://live.tsli.co:8081/live/globonewshd/tracks-v1a1/mono.m3u8
 
 
 
@@ -40,7 +41,7 @@ https://z4.azureedge.net//hls1/globonews-sd.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",Band News HD
-https://l3.azureedge.net//hls1/bandnews.m3u8
+https://live.tsli.co:8081/live/bandnewshd/tracks-v1a1/mono.m3u8
 
 
 
@@ -50,7 +51,7 @@ https://z4.azureedge.net//hls1/bandnews-sd.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",Band News HD
-https://z4.azureedge.net//hls1/bandnews.m3u8
+https://live.tsli.co:8081/live/globonewshd/tracks-v1a1/mono.m3u8
 
 
 
@@ -213,13 +214,13 @@ https://l3.azureedge.net//hls1/boomerang.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",History HD 
 
-https://z4.azureedge.net//hls1/history.m3u8
+https://live.tsli.co:8081/live/historyhd/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",History SD 
 
-https://z4.azureedge.net//hls1/history-sd.m3u8
+https://live.tsli.co:8081/live/history/tracks-v1a1/mono.m3u8
 
 
 
@@ -244,7 +245,7 @@ https://l3.azureedge.net//hls1/h2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",FOX HD  
 
-https://z4.azureedge.net//hls1/fox.m3u8
+https://live.tsli.co:8081/live/fxhd/tracks-v1a1/mono.m3u8
 
 
 
@@ -255,7 +256,7 @@ https://z4.azureedge.net//hls1/fox-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",FOX HD  
 
-https://l3.azureedge.net//hls1/fox.m3u8
+https://live.tsli.co:8081/live/fx/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Fox Premium HD 
@@ -378,7 +379,7 @@ https://l3.azureedge.net//hls1/telecineaction.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine FUN HD 
 
-https://z4.azureedge.net//hls1/telecinefun.m3u8
+https://live.tsli.co:8081/live/telecinefunhd/tracks-v1a1/mono.m3u8
 
 
 
@@ -390,18 +391,19 @@ https://z4.azureedge.net//hls1/telecinefun-sd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine FUN HD 
 
-https://l3.azureedge.net//hls1/telecinefun.m3u8
+https://live.tsli.co:8081/live/telecinefun/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine pipoca HD 
 
-https://z4.azureedge.net//hls1/telecinepipoca.m3u8
+https://live.tsli.co:8081/live/telecinepipoca/tracks-v1a1/mono.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Fechada",Telecine pipoca SD 
 
-https://z4.azureedge.net//hls1/telecinepipoca-sd.m3u8
+https://live.tsli.co:8081/live/telecinepipocahd/tracks-v1a1/mono.m3u8
 
 
 
@@ -940,4 +942,34 @@ https://z4.azureedge.net//hls1/redetv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",Rede TV SD
 
 https://z4.azureedge.net//hls1/redetv-sd.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",MTV 
+
+https://live.tsli.co:8081/live/mtv/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.png" group-title="TV Fechada",MTV HD
+
+https://live.tsli.co:8081/live/mtvhd/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
